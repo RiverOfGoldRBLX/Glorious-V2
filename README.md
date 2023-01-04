@@ -7,5 +7,8 @@ https://github.com/RiverOfGoldRBLX/Glorious-V2/releases/tag/Release.1
 
 # HOW TO UPDATE API
 Go to https://wearedevs.net/d/Exploit%20API and download the file  
+  
 Unzip it and place "WeAreDevs_API.dll" in the glorious folder (replacing the one that was already there)  
+  
 yiipeeeeee  
+  
