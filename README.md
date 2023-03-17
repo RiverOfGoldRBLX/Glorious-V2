@@ -12,6 +12,6 @@ Unzip it and place "WeAreDevs_API.dll" in the glorious folder (replacing the one
   
 yiipeeeeee  
   
-# IF THE UI IS BUGGED:
+# IF THE UI IS BUGGED
 
 Working on it, but I haven't found a fix yet (I am bad at programming).
